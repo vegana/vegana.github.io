@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://vegana.github.io/</loc>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+     <url><loc>https://vegana.github.io/docs/</loc></url>
+     <url><loc>https://vegana.github.io/community/</loc></url>
+     <url><loc>https://vegana.github.io/about/</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/introduction/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/introduction/installation</loc></url>
+     <url><loc>https://vegana.github.io/docs/introduction/document-tree</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/cli/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/init</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/serve</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/generate</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/build</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/founder</loc></url>
+     <url><loc>https://vegana.github.io/docs/cli/help</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/make/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/make/div</loc></url>
+     <url><loc>https://vegana.github.io/docs/make/list</loc></url>
+     <url><loc>https://vegana.github.io/docs/make/image</loc></url>
+     <url><loc>https://vegana.github.io/docs/make/input</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/router/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/router/pages</loc></url>
+     <url><loc>https://vegana.github.io/docs/router/conts</loc></url>
+     <url><loc>https://vegana.github.io/docs/router/panels</loc></url>
+     <url><loc>https://vegana.github.io/docs/router/comps</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/loader/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/loader/load</loc></url>
+     <url><loc>https://vegana.github.io/docs/loader/css</loc></url>
+     <url><loc>https://vegana.github.io/docs/loader/hooks</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/request/send</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/binder/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/hover</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/click</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/files</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/text</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/number</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/value</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/active</loc></url>
+     <url><loc>https://vegana.github.io/docs/binder/boolean</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/add/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/add/object</loc></url>
+     <url><loc>https://vegana.github.io/docs/add/function</loc></url>
+     <url><loc>https://vegana.github.io/docs/add/comp</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/common/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/common/tell</loc></url>
+     <url><loc>https://vegana.github.io/docs/common/error</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/data/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/data/get</loc></url>
+     <url><loc>https://vegana.github.io/docs/data/set</loc></url>
+     <url><loc>https://vegana.github.io/docs/data/reset</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/get/page</loc></url>
+     <url><loc>https://vegana.github.io/docs/get/cont</loc></url>
+     <url><loc>https://vegana.github.io/docs/get/panel</loc></url>
+     <url><loc>https://vegana.github.io/docs/get/body</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/meta/add</loc></url>
+     <url><loc>https://vegana.github.io/docs/meta/update</loc></url>
+     <url><loc>https://vegana.github.io/docs/meta/delete</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/params/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/params/get</loc></url>
+     <url><loc>https://vegana.github.io/docs/params/add</loc></url>
+     <url><loc>https://vegana.github.io/docs/params/delete</loc></url>
+     <url><loc>https://vegana.github.io/docs/params/native</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/set/title</loc></url>
+     <url><loc>https://vegana.github.io/docs/set/input</loc></url>
+     <url><loc>https://vegana.github.io/docs/set/div</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/validate/introduction</loc></url>
+     <url><loc>https://vegana.github.io/docs/validate/json</loc></url>
+     <url><loc>https://vegana.github.io/docs/validate/email</loc></url>
+
+     <url><loc>https://vegana.github.io/docs/view/hide</loc></url>
+     <url><loc>https://vegana.github.io/docs/view/show</loc></url>
+
+</urlset>
